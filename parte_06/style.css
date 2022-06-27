@@ -1,0 +1,39 @@
+body {
+    background-color: #296a96;
+}
+#title {
+    color: white;
+    text-align: center;
+    font: normal 18pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#area {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    height: 45%;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px  5px 10px #00000085;
+}
+#input-area {
+    text-align: center;
+}
+#flista {
+    width: 150px;
+}
+#finish-btn {
+    margin-top: 25px;
+}
+#res {
+    text-align: center;
+}
+#footer {
+    text-align: center;
+    color: white;
+    font: normal 16pt;
+    font-weight: 400;
+    font-family: Roboto;
+    font-style: italic;
+}
